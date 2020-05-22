@@ -1,0 +1,19 @@
+{
+  "name": "online-hakaton",
+  "version": "1.0.0",
+  "description": "Skill Hackaton Otkritie Bank",
+  "main": "index.js",
+  "dependencies": {
+    "artyom.js": "^1.0.6",
+    "moment": "^2.26.0",
+    "ngrok": "^3.2.7",
+    "yandex-dialogs-sdk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon"
+  },
+  "author": "Modder182",
+  "license": "MIT"
+}

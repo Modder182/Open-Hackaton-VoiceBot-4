@@ -1,0 +1,24 @@
+.header {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+img.logo {
+    position: relative;
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
+    padding-left: 30%;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+
+button.speech {
+    background-color: white;
+    width: 150px;
+    height: 75px;
+    border: 2px solid gray;
+}
