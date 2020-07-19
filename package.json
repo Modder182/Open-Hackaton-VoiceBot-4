@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "artyom.js": "^1.0.6",
+    "lodash": "^4.17.19",
     "moment": "^2.26.0",
     "ngrok": "^3.2.7",
     "yandex-dialogs-sdk": "^2.3.0"
